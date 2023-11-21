@@ -9,10 +9,10 @@ The Tech Trend Website is a web application built using Java Spring MVC and Hibe
 ~ Image upload for products
 
 # Technologies Used
-Java Spring MVC
-MySQL
-Hibernate
-HTML, CSS, Bootstrap
+Java Spring MVC,
+MySQL,
+Hibernate,
+HTML, CSS, Bootstrap,
 Maven
 
 # Prerequisites
